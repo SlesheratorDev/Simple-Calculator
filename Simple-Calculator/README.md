@@ -1,2 +1,2 @@
 # Simple-Calculator
-# Simple-Calculator
+ Канкулятор написанный на Pascal с стандартными операциями (+, -, *. /) . 
