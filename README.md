@@ -4,4 +4,4 @@
 
 При работе использовал: Bash, встроенный текстовый редактор (vim) и free pascal
 
-Запуск: ./calculator
+* Запуск: ./calculator
